@@ -1,17 +1,18 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: HXE Blog
+SEOTitle: 雪儿的博客 | HXE Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: xueerhandk@gmail.com
+description: "生信学习日记！"
+keyword: "HXE, Cher, 韩雪儿的博客, hanxueer, 生信, 非编码, RNA结构, bioinformatics, non-coding, RNA structure"
+url: "http://Cher-HAN.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Cher-HAN/Cher-HAN.github.io" # you code repository
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Lif is short, I need Python!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +20,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#zhihu_username:     qiubaiying
+#github_username:    qiubaiying
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -97,7 +98,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+'''friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
@@ -111,4 +112,4 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
-]
+]'''
