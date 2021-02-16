@@ -1,0 +1,7 @@
+1. In python, allows to give the function to a variable, it is wrong sometimes.
+
+x = random.random #error in this code
+
+x = random.random() #the needed one
+
+TypeError: unsupported operand type(s) for *: 'builtin_function_or_method' and 'int'
