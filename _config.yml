@@ -98,7 +98,7 @@ service-worker: true
 
 
 # Friends
-'''friends: [
+friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
@@ -112,4 +112,4 @@ service-worker: true
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
-]'''
+]
