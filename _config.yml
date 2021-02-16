@@ -1,7 +1,7 @@
 # Site settings
 title: HXE Blog
 SEOTitle: 雪儿的博客 | HXE Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/forWEBblog.jpeg
 email: xueerhandk@gmail.com
 description: "生信学习日记！"
 keyword: "HXE, Cher, 韩雪儿的博客, hanxueer, 生信, 非编码, RNA结构, bioinformatics, non-coding, RNA structure"
@@ -13,7 +13,7 @@ github_repo: "https://github.com/Cher-HAN/Cher-HAN.github.io" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Lif is short, I need Python!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG110.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -75,11 +75,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
